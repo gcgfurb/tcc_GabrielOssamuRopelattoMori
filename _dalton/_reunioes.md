@@ -1,5 +1,7 @@
 # Anotações das reuniões  
 
+marginnote3app://note/D06B320A-2F8F-467A-ACF9-6A11903617C1  
+
 ## 2023-08-15 - 16:50
 
 Conversa no MS-Teams.  
