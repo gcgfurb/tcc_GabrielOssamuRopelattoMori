@@ -61,3 +61,8 @@ Palavras de Pesquisa:
 Olhar os últimos 3 anos deste evento:  
 <https://cbie.sbc.org.br/2023/>  
 <https://ceie.sbc.org.br/evento/cbie2022/>  
+
+## 2023-10-23 - 11:04
+
+Não revisei todo o texto porque não tinha feito ajustes solicitados na revisão anterior.  
+[2023-10-19_PreProjeto.docx](2023-10-19_PreProjeto.docx "2023-10-19_PreProjeto.docx")  
