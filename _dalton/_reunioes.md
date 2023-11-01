@@ -66,3 +66,8 @@ Olhar os últimos 3 anos deste evento:
 
 Não revisei todo o texto porque não tinha feito ajustes solicitados na revisão anterior.  
 [2023-10-19_PreProjeto.docx](2023-10-19_PreProjeto.docx "2023-10-19_PreProjeto.docx")  
+
+## 2023-11-01 - 14:06
+
+Conversei pelo MS-Teams e passei instruções para revisar o texto.  
+2023-10-30_PreProjeto.docx  
