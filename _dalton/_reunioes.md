@@ -72,7 +72,11 @@ Não revisei todo o texto porque não tinha feito ajustes solicitados na revisã
 Conversei pelo MS-Teams e passei instruções para revisar o texto.  
 2023-10-30_PreProjeto.docx  
 
-## 2023-11-06 - 10:37
+## 2023-11-03 - 23:33
 
 [2023-11-03_PreProjeto.docx](2023-11-03_PreProjeto.docx "2023-11-03_PreProjeto.docx")  
 Ainda se deveria fazer ajustes, mas pelo prazo vai ser entregue assim mesmo.  
+
+## 2023-11-06 - 10:40
+
+[2023-11-06_PreProjeto_Entregue.docx](2023-11-06_PreProjeto_Entregue.docx "2023-11-06_PreProjeto_Entregue.docx")  
