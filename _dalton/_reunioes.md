@@ -86,3 +86,8 @@ Ainda se deveria fazer ajustes, mas pelo prazo vai ser entregue assim mesmo.
 <video src="2023-11-08_PreProjeto_Slides.mp4" controls title="Title"></video>  
 
 2023-11-08_PreProjeto_Slides.ppt  
+
+## 2023-12-19 - 11:08
+
+[2023-12-18_AvaliacaoTCC1_email.pdf](2023-12-18_AvaliacaoTCC1_email.pdf)  
+[2023-12-18_AvaliacaoTCC1.pdf](2023-12-18_AvaliacaoTCC1.pdf)  
