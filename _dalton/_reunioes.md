@@ -91,3 +91,57 @@ Ainda se deveria fazer ajustes, mas pelo prazo vai ser entregue assim mesmo.
 
 [2023-12-18_AvaliacaoTCC1_email.pdf](2023-12-18_AvaliacaoTCC1_email.pdf)  
 [2023-12-18_AvaliacaoTCC1.pdf](2023-12-18_AvaliacaoTCC1.pdf)  
+
+## 2024-08-12 - 17:25
+
+OBJETIVOS
+APP Realidade Aumentada
+RA TCC -> <https://github.com/gcgfurb/tcc_ThiagoAlbertoBuzzi>  
+
+RVi TCC -> <https://github.com/gcgfurb/tcc_GuilhermeFibrantz>  
+  Lista de regras de trânsito.  
+  <https://drive.google.com/file/d/1MJHWtljPopyy1pGD6fpGqROa6Pd63t9J/view?usp=sharing>
+
+- analisar a possibilidade de usar o aplicativo como uma ferramenta educacional (avaliação)
+    Pessoal da profa. <https://github.com/gcgfurb/tcc_GuilhermeFibrantz/tree/main/_dalton/Clarissa_material>  
+
+- desenvolver um ambiente em realidade aumentada simulando o trânsito de uma cidade;
+- oferecer cenas variadas, a partir de diferentes situações vivenciadas no trânsito;
+- instruir e conscientizar o usuário baseado nas suas ações tomadas respeitando as leis do trânsito;
+a) permitir o usuário colocar e tirar o cinto (Requisito Funcional - RF);
+b) permitir o usuário a pilotar o carro livremente pela rua (RF);
+c) mostrar mensagens avisando quando o usuário infringiu a alguma lei de trânsito (RF);
+d) retornar uma relação de pontos para o usuário quando ele parar de jogar (RF);
+e) diminuir a barra de vida do automóvel conforme o usuário bate o carro (RF);
+f) permitir o usuário acelerar e frear o carro em pedais dispostos na tela (RF);
+g) gerar pedestres que andem aleatoriamente nas ruas (RF);
+h) gerar carros que circulem aleatoriamente nas ruas (RF);
+i) disponibilizar postos que reabastecem a gasolina do carro (RF);
+j) poder ser executado em dispositivo Android a partir da versão 10 (Requisito Não Funcional - RNF);
+k) ter uma interface de fácil acesso a todos os botões de interação com o carro (RNF);
+l) ter uma documentação com as principais leis de trânsito vigentes (RNF);
+m) ser desenvolvido no motor de jogos Unity na linguagem de programação C# (RNF).
+
+### Tarefa 2024-08-12
+
+Fazer projeto NOVO __
+  Unity: 2022.3.13f1  
+  Vuforia: 10.22.5  
+  - ter um cubo associado a um TargetImage do Vuforia  
+
+Asset <https://assetstore.unity.com>  
+  User: dalton.reis@gmail.com  
+  Pwd: Furb2022  
+<https://assetstore.unity.com/packages/3d/environments/simple-roadwork-cartoon-city-32000>  
+
+Ler os artigos:
+  Ser igual: <https://github.com/gcgfurb/tcc_ThiagoAlbertoBuzzi/blob/master/textos/tcc_bcc_2018_2_tabuzzi_ThiagoAlbertoBuzzi-VF.pdf>  
+  Cenário: <https://github.com/gcgfurb/tcc_GuilhermeFibrantz/blob/main/tcc_bcc_2023_2_GuilhermeFibrantz/Textos/tcc_bcc_2023_2_GuilhermeFibrantz-VF.pdf.pdf> / <https://drive.google.com/file/d/1MJHWtljPopyy1pGD6fpGqROa6Pd63t9J/view?usp=sharing>  
+
+Agrupar e ordenar os requisitos
+  _ necessário
+
+
+  _ normal
+
+  _ não entendi
