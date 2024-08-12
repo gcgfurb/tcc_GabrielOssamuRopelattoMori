@@ -141,7 +141,6 @@ Ler os artigos:
 Agrupar e ordenar os requisitos
   _ necessário
 
-
   _ normal
 
   _ não entendi
