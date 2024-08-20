@@ -144,3 +144,12 @@ Agrupar e ordenar os requisitos
   _ normal
 
   _ não entendi
+
+  ## 2024-08-20 - 17:28
+
+<https://github.com/gcgfurb/tcc_BrunoRicardoJunkes>  
+<https://drive.google.com/drive/folders/1fSPLd9Pn71gNQ7FQ6ZIunvArKg2a4u0W?usp=sharing>  
+    ProgramAR 
+
+Pegar o cenário (+/-) tcc_GuilhermeFibrantz (trânsito) e fazer em RA ARFoudantion Unity do tcc_BrunoRicardoJunkes.  
+Pedi para fazer um Hello World usando o template AR do Unity.  
