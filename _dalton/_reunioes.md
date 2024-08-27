@@ -153,3 +153,9 @@ Agrupar e ordenar os requisitos
 
 Pegar o cenário (+/-) tcc_GuilhermeFibrantz (trânsito) e fazer em RA ARFoudantion Unity do tcc_BrunoRicardoJunkes.  
 Pedi para fazer um Hello World usando o template AR do Unity.  
+
+## 2024-08-27 - 17:14
+
+Conseguiu usar o ARFoundation usando um TargetImage de uma imagem padrão colocando um cubo do Unity ancorado.  
+Pedi para ressuscitar o TCC do tcc_GuilhermeFibrantz usando a versão que ele usou do Unity.  
+Pegar a cena da cidade e trazer para o seu projeto para ver no lugar do cubo.  
