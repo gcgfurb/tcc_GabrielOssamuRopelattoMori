@@ -1,0 +1,8 @@
+Unity versão
+
+C:\Users\gabri\My project (2)\ProjectSettings
+no arquivo ProjectVersion
+
+estudar o projeto do Guilherme
+pegar o foundation com a target image que vou usar no meu projeto
+
