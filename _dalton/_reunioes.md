@@ -159,3 +159,14 @@ Pedi para fazer um Hello World usando o template AR do Unity.
 Conseguiu usar o ARFoundation usando um TargetImage de uma imagem padrão colocando um cubo do Unity ancorado.  
 Pedi para ressuscitar o TCC do tcc_GuilhermeFibrantz usando a versão que ele usou do Unity.  
 Pegar a cena da cidade e trazer para o seu projeto para ver no lugar do cubo.  
+
+## 2024-09-03 - 17:18
+
+Asset Store Unity <https://assetstore.unity.com/publishers/5217>  
+<https://assetstore.unity.com/packages/3d/environments/urban/simple-town-cartoon-assets-43500>  
+
+Cenas: <https://github.com/gcgfurb/tcc_GuilhermeFibrantz>  
+
+<https://www.bluestacks.com/pt-br/index.html> -> APK  
+RotaVR <https://drive.google.com/open?id=1MJHWtljPopyy1pGD6fpGqROa6Pd63t9J&usp=drive_fs>  
+
