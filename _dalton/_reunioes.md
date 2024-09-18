@@ -170,3 +170,8 @@ Cenas: <https://github.com/gcgfurb/tcc_GuilhermeFibrantz>
 <https://www.bluestacks.com/pt-br/index.html> -> APK  
 RotaVR <https://drive.google.com/open?id=1MJHWtljPopyy1pGD6fpGqROa6Pd63t9J&usp=drive_fs>  
 
+## 2024-09-17 - 14:42
+
+Não teve reunião.  
+Oq fiz: Eu conseguir fazer o cenário, e colocar na target image.
+Pretendo fazer: Ajustar o tamanho do cenário que aparece na target image e fazer navmesh dos pedestres e carros  
