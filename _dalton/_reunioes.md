@@ -175,3 +175,9 @@ RotaVR <https://drive.google.com/open?id=1MJHWtljPopyy1pGD6fpGqROa6Pd63t9J&usp=d
 Não teve reunião.  
 Oq fiz: Eu conseguir fazer o cenário, e colocar na target image.
 Pretendo fazer: Ajustar o tamanho do cenário que aparece na target image e fazer navmesh dos pedestres e carros  
+
+## 2024-09-24 - 17:28
+
+Fez: NavMesh.  
+Fazer: NavMesh para ptos específicos.  
+Fazer: ter os controles em um carro. O jogador.  
