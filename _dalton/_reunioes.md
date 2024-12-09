@@ -181,3 +181,21 @@ Pretendo fazer: Ajustar o tamanho do cenário que aparece na target image e faze
 Fez: NavMesh.  
 Fazer: NavMesh para ptos específicos.  
 Fazer: ter os controles em um carro. O jogador.  
+
+## 2024-10-15 - 17:09
+
+![alt text](image.png)  
+
+A4
+A0  
+Testar no aparelho  
+
+## 2024-10-22 - 17:24
+
+Problema carro RA afundando  
+Artigo, o que fazer  
+  - diagramação: ver exemplos enviados  
+    Classes  
+    Componentes  
+    Sequências - Cenários  
+Asset Painel  
